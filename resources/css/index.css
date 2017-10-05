@@ -1,9 +1,10 @@
-html {
+body {
   text-align: center;
   font-family: Helvetica;
   background-color: white;
+  font-size: 14px;
 }
-#head, #home, #about, #work, #team, #contact {
+#home {
   background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
 }
 #footer {
@@ -19,7 +20,7 @@ html {
   color: white;
 }
 p {
-  font-size: 14px;
+
 }
 h1 {
   font-size: 70px;
